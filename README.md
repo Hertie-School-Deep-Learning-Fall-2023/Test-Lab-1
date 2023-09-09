@@ -4,7 +4,7 @@
 ### Downloading the demo assignment
 Clone the assigment repository which was created for you / your team. 
 ```
-git clone https://github.com/hertie-data-science-lab/
+git clone https://github.com/hertie-data-science-lab/Test-Lab-1
 ```
 If you feel more comfortable using git UI tools instead of the command line, feel free to use them.
 
